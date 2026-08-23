@@ -1,5 +1,5 @@
 # Virtual environment
-myproject/
+venv/
 
 # Environment variables & secrets (CRITICAL)
 .env
